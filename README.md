@@ -7,7 +7,7 @@
 
 | 날짜  | 학습 챕터 & 주제 | 송수빈 | 이은석 |
 |-------|----------|-----|----------|
-| `2/5`   | `섹션2 : JavaScript기본`     |[JavaScript 기본](https://github.com/subinsong01/Frontend-Study/blob/main/Javascript/BasicLearning/Chapter4.md)
+| `2/5`   | `섹션2 : JavaScript기본`     |[JavaScript 기본](https://github.com/subinsong01/Frontend-Study/tree/main/Javascript/BasicLearning)
 ||
 | `2/6`   | `섹션3 : JavaScript심화`        |||
 | `2/7`   |  `섹션4: Node.js기초 & 섹션5: React.js개론`      |||
