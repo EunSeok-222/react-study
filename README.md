@@ -1,4 +1,4 @@
-# 🔥 React Study
+# <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1644161402/noticon/byp14ppjklohyym0dl6z.png" width="50" height="50"> React Study
 
 매일 정해진 React 챕터를 공부하고, 각자 블로그에 정리하여 지식을 공유하는 스터디입니다. <br />
 함께 학습하며 실력을 키우고, 서로의 인사이트를 나누는 것이 목표입니다 ✨
@@ -7,8 +7,7 @@
 
 | 날짜  | 학습 챕터 & 주제 | 송수빈 | 이은석 |
 |-------|----------|-----|----------|
-| `2/5`   | `섹션2 : JavaScript기본`     |[JavaScript 기본](https://github.com/subinsong01/Frontend-Study/tree/main/Javascript/BasicLearning)
-||
+| `2/5`   | `섹션2 : JavaScript기본`     |[JavaScript 기본](https://github.com/subinsong01/Frontend-Study/tree/main/Javascript/BasicLearning)|[ React.js 기초 01 ](https://velog.io/@eunseok222/chapter-01)|
 | `2/6`   | `섹션3 : JavaScript심화`        |||
 | `2/7`   |  `섹션4: Node.js기초 & 섹션5: React.js개론`      |||
 | `2/8`   | `섹션6: React.js입문 `      |||
