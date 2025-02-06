@@ -7,8 +7,8 @@
 
 | 날짜  | 학습 챕터 & 주제 | 송수빈 | 이은석 |
 |-------|----------|-----|----------|
-| `2/5`   | `섹션2 : JavaScript기본`     |[JavaScript 기본](https://github.com/subinsong01/Frontend-Study/tree/main/Javascript/BasicLearning)|[ React.js 기초 01 ](https://velog.io/@eunseok222/chapter-01)|
-| `2/6`   | `섹션3 : JavaScript심화`        |||
+| `2/5`   | `섹션2 : JavaScript기본`     |[JavaScript 기본](https://github.com/subinsong01/Frontend-Study/tree/main/Javascript/BasicLearning)|[ JavaScript기본 ](https://velog.io/@eunseok222/chapter-01)|
+| `2/6`   | `섹션3 : JavaScript심화`        ||[ JavaScript 심화  ](https://velog.io/@eunseok222/chapter-02) |
 | `2/7`   |  `섹션4: Node.js기초 & 섹션5: React.js개론`      |||
 | `2/8`   | `섹션6: React.js입문 `      |||
 | `2/10`   | `섹션7: 프로젝트1. 카운터 앱 & 섹션8: 라이브사이클`       |||
