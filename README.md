@@ -9,7 +9,7 @@
 |-------|----------|-----|----------|
 | `2/5`   | `섹션2 : JavaScript기본`     |[JavaScript 기본](https://github.com/subinsong01/Frontend-Study/tree/main/Javascript/BasicLearning)|[ JavaScript기본 ](https://velog.io/@eunseok222/chapter-01)|
 | `2/6`   | `섹션2 : JavaScript기본`     |[JavaScript 기본](https://github.com/subinsong01/Frontend-Study/tree/main/Javascript/BasicLearning)|[ JavaScript기본 ](https://velog.io/@eunseok222/chapter-01)|
-| `2/7`   | `섹션3 : JavaScript심화`        ||[ JavaScript 심화  ](https://velog.io/@eunseok222/chapter-02-1) |
+| `2/7`   | `섹션3 : JavaScript심화`        ||[ JavaScript 심화  ](https://velog.io/@eunseok222/chapter-02) |
 | `2/10`   | `섹션3 : JavaScript심화`        ||[ JavaScript 심화  ](https://velog.io/@eunseok222/Section-02-2) |
 | `2/11`   |  `섹션4: Node.js기초 & 섹션5: React.js개론`      |||
 | `2/12`   | `섹션6: React.js입문 `      |||
